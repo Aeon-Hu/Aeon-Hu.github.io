@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[1](/images/works/1.jpg)
+![1](/images/works/1.jpg)
