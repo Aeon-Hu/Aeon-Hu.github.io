@@ -19,7 +19,7 @@ solid foundation in mathematics and analytical thinking, and able to efficiently
 
 ## EDUCATION
 
-**ER Honors Bachelor of Science**                             Completion: 2025.06
+**ER Honors Bachelor of Science**                            <span style="text-align: right;"> Completion: 2021.09-2025.06 </span>
 
 **University of Toronto**            Toronto
 
@@ -33,9 +33,9 @@ solid foundation in mathematics and analytical thinking, and able to efficiently
 ## WORK EXPERIENCE
 
 
-**Health Insurance Application Analyst (Actuarial/Data Analysis Focus)**        2024.06 – 2024.09
+**Health Insurance Application Analyst (Actuarial/Data Analysis Focus)**          <span style="text-align: right;"> 2024.06 – 2024.09 </span>
 
-**Rare Earth Insurance Partners Ltd.**       Hong Kong
+**Rare Earth Insurance Partners Ltd.**       <span style="text-align: right;"> Hong Kong </span>
 
 *  Assisted premium pricing by analyzing health data such as age, gender, medical history, and lifestyle factors, utilizing statistical models to calculate appropriate premiums
 *  Categorize policyholders into different risk groups to ensure optimized premium structures
@@ -43,16 +43,16 @@ solid foundation in mathematics and analytical thinking, and able to efficiently
 *  Participated in the analysis of new health insurance products’ competitiveness and financial sustainability
 
 
-**Research Assistant in Dynamic Corporate Theory**     2023 & 2024 Summer
+**Research Assistant in Dynamic Corporate Theory**       <span style="text-align: right;"> 2023 & 2024 Summer </span>
 
-**The Chinese University of Hong Kong**  Hong Kong
+**The Chinese University of Hong Kong**    <span style="text-align: right;"> Hong Kong </span>
 
 * Utilized R to collect and organize experimental data and applied statistical methods for data analysis
 * Reproduce important functions in scientific research projects, draw graphs, and perform numerical solutions for differential equations using MATLAB
 * Typeset and formatted research papers in Latex, ensuring document compliance with academic standards.
   
-**Strategy Business and Development Intern**      2023.05 – 2023.09
-**Allianz China Life Insurance Co., Ltd.**     Shanghai
+**Strategy Business and Development Intern**        <span style="text-align: right;">2023.05 – 2023.09 </span>
+**Allianz China Life Insurance Co., Ltd.**       <span style="text-align: right;">Shanghai </span>
 
 * Provide support for market research and projects strategic decision-making, collected and analyzed industry data, analyzed market trends and competitor data
 * Participated in discussions and formulation of market entry strategies
@@ -61,7 +61,7 @@ solid foundation in mathematics and analytical thinking, and able to efficiently
 
 ## EXTRA-CURRICULAR ACTIVITIES
 
-**Game Design (Conceptual Art Design)**       2020.10 – NOW
+**Game Design (Conceptual Art Design)**         <span style="text-align: right;">2020.10 – NOW </span>
 
 *  Led a long-term game design project from scratch, overseeing the development of game background,  scriptwriting, and character design
 *  Organized and managed a global team, coordinating members from diverse locations
