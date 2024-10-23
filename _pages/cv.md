@@ -4,8 +4,9 @@ title: "Current Art Works"
 permalink: /work/
 author_profile: true
 redirect_from:
-  - /resume
+  - /work
 ---
 
 {% include base_path %}
 
+111
