@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Current Art Works"
+permalink: /work/
 author_profile: true
 redirect_from:
   - /resume
