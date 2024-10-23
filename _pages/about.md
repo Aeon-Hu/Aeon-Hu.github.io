@@ -70,6 +70,6 @@ solid foundation in mathematics and analytical thinking, and able to efficiently
 
 ## SKILLS & INTEREST
 
-* Technical: Microsoft, R, Python, MATLAB, LaTeX, Adobe Premiere/Photoshop, Clip Studio Paint
+* Technical: Microsoft, R, Python, MATLAB, LaTeX, Adobe Premiere/Photoshop, Clip Studio Paint 
 * Language: Mandarin (Native), English (Fluent & Professional)
 * Interest: Anime Character Design and Plot Script Production, Astronomical Observation, Hiking
