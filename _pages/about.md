@@ -52,6 +52,7 @@ solid foundation in mathematics and analytical thinking, and able to efficiently
 * Typeset and formatted research papers in Latex, ensuring document compliance with academic standards.
   
 **Strategy Business and Development Intern**        <span style="text-align: right;">2023.05 – 2023.09 </span>
+
 **Allianz China Life Insurance Co., Ltd.**       <span style="text-align: right;">Shanghai </span>
 
 * Provide support for market research and projects strategic decision-making, collected and analyzed industry data, analyzed market trends and competitor data
