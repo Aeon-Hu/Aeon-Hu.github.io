@@ -44,4 +44,4 @@ Projects
 
 * Evaluation : Responsible for testing the usability of GPT-API, and tuning the existing prompt to guide
 gpt to score the responses of student models and teacher models more objectively and accurately
-through prompt
+through prompt 1
