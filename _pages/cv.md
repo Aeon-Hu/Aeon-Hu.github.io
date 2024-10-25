@@ -20,7 +20,7 @@ redirect_from:
 ![11](/images/works/19.png)
 ![11](/images/works/110.png)
 ![11](/images/works/111.png)
-![11](/images/works/1121.png)
+![11](/images/works/111.png)
 ![11](/images/works/113.png)
 ![11](/images/works/114.png)
 ![11](/images/works/115.png)
