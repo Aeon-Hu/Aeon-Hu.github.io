@@ -20,7 +20,10 @@ redirect_from:
 ![11](/images/works/17.png)
 ![11](/images/works/18.png)
 ![11](/images/works/19.png)
+
+
 ![11](/images/works/110.png)
+![11](/images/works/1.jpg)
 ![11](/images/works/111.png)
 
 ![11](/images/works/113.png)
@@ -47,6 +50,7 @@ redirect_from:
 ###  Illustration
 
 ![11](/images/works/129.png)
+![11](/images/works/2.jpg)
 ![11](/images/works/130.png)
 ![11](/images/works/131.png)
 ![11](/images/works/132.png)
