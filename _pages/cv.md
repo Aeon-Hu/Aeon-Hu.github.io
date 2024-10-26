@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+### Tachie
+
 ![11](/images/works/11.png)
 ![11](/images/works/12.png)
 ![11](/images/works/13.png)
@@ -20,9 +22,12 @@ redirect_from:
 ![11](/images/works/19.png)
 ![11](/images/works/110.png)
 ![11](/images/works/111.png)
-![11](/images/works/111.png)
+
 ![11](/images/works/113.png)
 ![11](/images/works/114.png)
+
+### Sketch Design
+
 ![11](/images/works/115.png)
 ![11](/images/works/116.png)
 ![11](/images/works/117.png)
@@ -35,6 +40,9 @@ redirect_from:
 ![11](/images/works/124.png)
 ![11](/images/works/125.png)
 ![11](/images/works/126.png)
+
+###  Illustration
+
 ![11](/images/works/127.png)
 ![11](/images/works/128.png)
 ![11](/images/works/129.png)
@@ -42,7 +50,7 @@ redirect_from:
 ![11](/images/works/131.png)
 ![11](/images/works/132.png)
 ![11](/images/works/134.png)
-![11](/images/works/134.png)
+
 ![11](/images/works/135.png)
 ![11](/images/works/136.png)
 ![11](/images/works/137.png)
@@ -50,5 +58,8 @@ redirect_from:
 ![11](/images/works/139.png)
 ![11](/images/works/140.png)
 ![11](/images/works/141.png)
+
+### Other Works
+
 ![11](/images/works/142.png)
 ![11](/images/works/143.png)
