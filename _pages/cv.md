@@ -23,11 +23,12 @@ permalink: /cv/
 ## WORK EXPERIENCE
 
 
-* **Health Insurance Application Analyst (Actuarial/Data Analysis Focus)**          <span style="text-align: right;"> 2024.06 – 2024.09 </span> <br/>  **Rare Earth Insurance Partners Ltd.**  
+* **Health Insurance Application Analyst (Actuarial/Data Analysis Focus)**     <br/>  
+     <span style="text-align: right;"> 2024.06 – 2024.09 </span> <br/>  Health Insurance Application Analyst (Actuarial/Data Analysis Focus)
 
        
 
 
 
-* **Strategy Business and Development Intern**       <span style="text-align: right;"> 2023 & 2024 Summer </span> <br/>**Allianz China Life Insurance Co., Ltd.** 
+* **Allianz China Life Insurance Co., Ltd.**     <br/>     <span style="text-align: right;"> 2023.05-2023.09 </span> <br/> Strategy Business and Development Intern
       
