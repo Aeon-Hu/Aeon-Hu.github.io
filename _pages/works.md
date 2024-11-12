@@ -44,13 +44,19 @@ Final Draft: Finish the whole character design
 ![](/images/works/23.jpg)
 
 ![](/images/works/24.jpg)
+
 ![](/images/works/25.jpg)
+
 ![](/images/works/26.jpg)
+
 ![](/images/works/27.jpg)
+
 ![](/images/works/28.jpg)
 
 ##  Sample Illustration
 
 ![](/images/works/11.png)
+
 ![](/images/works/12.png)
+
 ![](/images/works/13.png)
