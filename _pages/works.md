@@ -18,7 +18,7 @@ redirect_from:
 FAN Yin (樊胤/梵胤) , known as LIN Fan (林凡) when he lost his memory during the “Mysteries of SiXiang Gates” (四象门奇案).<br/>
 He serves as the Crown Prince of Li (黎), where the Li Dynasty is a country formed by GuiYuan(归原) and JiYuan (极渊) two parts. FAN’s position tends to become the same as a true emperor of Li after Li’s reigning emperor LIN Li (林璃) relinquished his authority.
 
-###  Design Process:
+###  Design Process
 
 
 ![](/images/works/111.png)
@@ -38,20 +38,20 @@ Combination and Organize: Add more details and design the character outlook
 
 Final Draft: Finish the whole character design
 
-###  Some other design examples:
+###  Some other design examples
 
-![](/images/works/21.png)
+![](/images/works/21.jpg)
 
-![](/images/works/22.png)
+![](/images/works/22.jpg)
 
-![](/images/works/23.png)
+![](/images/works/23.jpg)
 
-![](/images/works/24.png)
-![](/images/works/25.png)
+![](/images/works/24.jpg)
+![](/images/works/25.jpg)
 
-![](/images/works/27.png)
-![](/images/works/28.png)
-##  Sample Illustration:
+![](/images/works/27.jpg)
+![](/images/works/28.jpg)
+##  Sample Illustration
 
 ![](/images/works/11.png)
 ![](/images/works/12.png)
