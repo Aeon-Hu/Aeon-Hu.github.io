@@ -9,62 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-### Tachie
 
-![11](/images/works/11.png)
-![11](/images/works/12.png)
-![11](/images/works/13.png)
-![11](/images/works/14.png)
-![11](/images/works/15.png)
-![11](/images/works/16.png)
-![11](/images/works/17.png)
-![11](/images/works/18.png)
-![11](/images/works/19.png)
+##  Sample Design
+
+**Design Case for one character**
+**Character: FAN Yin (樊胤)**
+**Introduction to the role:**
+
+FAN Yin (樊胤/梵胤) , known as LIN Fan (林凡) when he lost his memory during the “Mysteries of SiXiang Gates” (四象门奇案).
+
+He serves as the Crown Prince of Li (黎), where the Li Dynasty is a country formed by GuiYuan(归原) and JiYuan (极渊) two parts. FAN’s position tends to become the same as a true emperor of Li after Li’s reigning emperor LIN Li (林璃) relinquished his authority.
+
+**Design Process:**
+
+Overall Outline: Determine the main style direction of this character
+
+![](/images/works/1.png)
+
+Overall Outline: Determine the main style direction of this character
 
 
-![11](/images/works/110.png)
-![11](/images/works/1.jpg)
-![11](/images/works/111.png)
+![](/images/works/2.png)
 
-![11](/images/works/113.png)
-![11](/images/works/114.png)
+Sketch after Confirmation: Based on the second one design of the overall outline
 
-### Sketch Design
+![](/images/works/3.png)
 
-![11](/images/works/115.png)
-![11](/images/works/116.png)
-![11](/images/works/117.png)
-![11](/images/works/118.png)
-![11](/images/works/119.png)
-![11](/images/works/120.png)
-![11](/images/works/121.png)
-![11](/images/works/122.png)
-![11](/images/works/123.png)
-![11](/images/works/124.png)
-![11](/images/works/125.png)
-![11](/images/works/126.png)
+Combination and Organize: Add more details and design the character outlook
 
-![11](/images/works/127.png)
-![11](/images/works/128.png)
+![](/images/works/4.png)
 
-###  Illustration
+Final Draft: Finish the whole character design
 
-![11](/images/works/129.png)
-![11](/images/works/2.jpg)
-![11](/images/works/130.png)
-![11](/images/works/131.png)
-![11](/images/works/132.png)
-![11](/images/works/134.png)
+**Some other design examples:**
 
-![11](/images/works/135.png)
-![11](/images/works/136.png)
-![11](/images/works/137.png)
-![11](/images/works/138.png)
-![11](/images/works/139.png)
-![11](/images/works/140.png)
-![11](/images/works/141.png)
+![](/images/works/5.png)
 
-### Other Works
+![](/images/works/6.png)
 
-![11](/images/works/142.png)
-![11](/images/works/143.png)
+![](/images/works/7.png)
+
+![](/images/works/8.png)
+![](/images/works/9.png)
+![](/images/works/10.png)
+
+Sample Illustration:
+
+![](/images/works/11.png)
+![](/images/works/12.png)
+![](/images/works/13.png)

@@ -11,15 +11,16 @@ redirect_from:
 
 ## PROFILE
 
-
-Fourth-year international student in UTM Department of Computational and Mathematical Science having a 
-solid foundation in mathematics and analytical thinking, and able to efficiently tackle complex challenges.
-
+Fourth-year international student in UTM Department of Computational and Mathematical Science having a solid foundation in mathematics and analytical thinking, and able to efficiently tackle complex challenges, currently interested in applied mathematics. <br />
+In addition, I have experience in various areas of game design, including UI, map, narrative, and character design. Since 2018, I've been designing original characters and am currently focused on enhancing gameplay depth, such as interactive items and multi-ending storylines. If you're interested in my design works, please move to the “Sample Design” page. The game only has Chinese version for now and is still under development. If you are interested in trying a demo of the game (a sample room), please contact aeon20030330@gmail.com.
 
 
-## EDUCATION
 
-**ER Honors Bachelor of Science**                            <span style="text-align: right;"> Completion: 2021.09-2025.06 </span>
+## CV
+
+### Education
+
+**ER Honors Bachelor of Science**                            <span style="text-align: right;"> Completion: 2021-2025 </span>
 
 **University of Toronto**            Toronto
 
@@ -30,47 +31,20 @@ solid foundation in mathematics and analytical thinking, and able to efficiently
    
 
 
+## Skills
+
+* Technical: Microsoft, R, Python, MATLAB, LaTeX, Adobe Premiere/Photoshop, Clip Studio Paint
+* Language: Mandarin (Native), English (Fluent & Professional)
+
 ## WORK EXPERIENCE
 
 
 **Health Insurance Application Analyst (Actuarial/Data Analysis Focus)**          <span style="text-align: right;"> 2024.06 – 2024.09 </span>
 
-**Rare Earth Insurance Partners Ltd.**       <span style="text-align: right;"> Hong Kong </span>
-
-*  Assisted premium pricing by analyzing health data such as age, gender, medical history, and lifestyle factors, utilizing statistical models to calculate appropriate premiums
-*  Categorize policyholders into different risk groups to ensure optimized premium structures
-*  Predicted future medical costs and claims trends based on historical data for reserves calculation
-*  Participated in the analysis of new health insurance products’ competitiveness and financial sustainability
+**Rare Earth Insurance Partners Ltd.**      
 
 
-**Research Assistant in Dynamic Corporate Theory**       <span style="text-align: right;"> 2023 & 2024 Summer </span>
 
-**The Chinese University of Hong Kong**    <span style="text-align: right;"> Hong Kong </span>
+**Strategy Business and Development Intern**       <span style="text-align: right;"> 2023 & 2024 Summer </span>
 
-* Utilized R to collect and organize experimental data and applied statistical methods for data analysis
-* Reproduce important functions in scientific research projects, draw graphs, and perform numerical solutions for differential equations using MATLAB
-* Typeset and formatted research papers in Latex, ensuring document compliance with academic standards.
-  
-**Strategy Business and Development Intern**        <span style="text-align: right;">2023.05 – 2023.09 </span>
-
-**Allianz China Life Insurance Co., Ltd.**       <span style="text-align: right;">Shanghai </span>
-
-* Provide support for market research and projects strategic decision-making, collected and analyzed industry data, analyzed market trends and competitor data
-* Participated in discussions and formulation of market entry strategies
-* Assisted project scheduling and progress tracking, to ensure the timely completion of projects
-
-
-## EXTRA-CURRICULAR ACTIVITIES
-
-**Game Design (Conceptual Art Design)**         <span style="text-align: right;">2020.10 – NOW </span>
-
-*  Led a long-term game design project from scratch, overseeing the development of game background,  scriptwriting, and character design
-*  Organized and managed a global team, coordinating members from diverse locations
-*  Developed a plot-driven game using RPG Maker, allowing players to engage in the story from the protagonist’s perspective with mid-game character switching, creating an interactive visual novel 
-  
-
-## SKILLS & INTEREST
-
-* Technical: Microsoft, R, Python, MATLAB, LaTeX, Adobe Premiere/Photoshop, Clip Studio Paint 
-* Language: Mandarin (Native), English (Fluent & Professional)
-* Interest: Anime Character Design and Plot Script Production, Astronomical Observation, Hiking
+**Allianz China Life Insurance Co., Ltd.**   
