@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-##  Sample Design
+
 
 **Design Case for one character**
 **Character: FAN Yin (樊胤)**
