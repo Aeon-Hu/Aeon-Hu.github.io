@@ -35,7 +35,7 @@ Combination and Organize: Add more details and design the character outlook
 
 Final Draft: Finish the whole character design
 
-###  Some Other Design Examples
+##  Some Other Design Examples
 
 ![](/images/works/21.jpg)
 
