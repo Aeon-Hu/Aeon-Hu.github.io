@@ -3,8 +3,10 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Current Art Works"
-    url: /work/    
+  - title: "CV"
+    url: /cv/    
+  - title: "Sample Design"
+    url: /works/  
 
   # - title: "Teaching"
   #   url: /teaching/    

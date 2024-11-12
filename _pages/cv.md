@@ -1,60 +1,35 @@
 ---
-layout: archive
-title: "Current Art Works"
-permalink: /work/
+
+title: "CV"
 author_profile: true
-redirect_from:
-  - /work
+permalink: /cv/
 ---
 
-{% include base_path %}
+
+### Education
+
+**ER Honors Bachelor of Science**                            <span style="text-align: right;"> Completion: 2021-2025 </span>
+
+**University of Toronto**            Toronto
+
+*    Honors Bachelor of Science with Majors in Mathematical Science, Mathematics & Statistics, Applied
+*  CGPA (As 2024 Summer): 3.51/4.00
 
 
-##  Sample Design
+## Skills
 
-**Design Case for one character**
-**Character: FAN Yin (樊胤)**
-**Introduction to the role:**
+* Technical: Microsoft, R, Python, MATLAB, LaTeX, Adobe Premiere/Photoshop, Clip Studio Paint
+* Language: Mandarin (Native), English (Fluent & Professional)
 
-FAN Yin (樊胤/梵胤) , known as LIN Fan (林凡) when he lost his memory during the “Mysteries of SiXiang Gates” (四象门奇案).
-
-He serves as the Crown Prince of Li (黎), where the Li Dynasty is a country formed by GuiYuan(归原) and JiYuan (极渊) two parts. FAN’s position tends to become the same as a true emperor of Li after Li’s reigning emperor LIN Li (林璃) relinquished his authority.
-
-**Design Process:**
-
-Overall Outline: Determine the main style direction of this character
-
-![](/images/works/1.png)
-
-Overall Outline: Determine the main style direction of this character
+## WORK EXPERIENCE
 
 
-![](/images/works/2.png)
+**Health Insurance Application Analyst (Actuarial/Data Analysis Focus)**          <span style="text-align: right;"> 2024.06 – 2024.09 </span>
 
-Sketch after Confirmation: Based on the second one design of the overall outline
+**Rare Earth Insurance Partners Ltd.**      
 
-![](/images/works/3.png)
 
-Combination and Organize: Add more details and design the character outlook
 
-![](/images/works/4.png)
+**Strategy Business and Development Intern**       <span style="text-align: right;"> 2023 & 2024 Summer </span>
 
-Final Draft: Finish the whole character design
-
-**Some other design examples:**
-
-![](/images/works/5.png)
-
-![](/images/works/6.png)
-
-![](/images/works/7.png)
-
-![](/images/works/8.png)
-![](/images/works/9.png)
-![](/images/works/10.png)
-
-Sample Illustration:
-
-![](/images/works/11.png)
-![](/images/works/12.png)
-![](/images/works/13.png)
+**Allianz China Life Insurance Co., Ltd.**   
