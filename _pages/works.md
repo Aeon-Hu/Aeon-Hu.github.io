@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Design Case of a Single Character"
+title: "Sample Design"
 permalink: /works/
 author_profile: true
 redirect_from:
