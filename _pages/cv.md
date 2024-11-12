@@ -8,10 +8,9 @@ permalink: /cv/
 
 ## Education
 
-**ER Honors Bachelor of Science**                            <span style="text-align: right;"> Completion: 2021-2025 </span>
 
 **University of Toronto**            Toronto
-
+* **ER Honors Bachelor of Science**                            <span style="text-align: right;"> Completion: 2021-2025 </span>
 *    Honors Bachelor of Science with Majors in Mathematical Science, Mathematics & Statistics, Applied
 *  CGPA (As 2024 Summer): 3.51/4.00
 
