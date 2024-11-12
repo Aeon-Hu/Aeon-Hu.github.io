@@ -45,7 +45,7 @@ Final Draft: Finish the whole character design
 
 ![](/images/works/24.jpg)
 ![](/images/works/25.jpg)
-
+![](/images/works/26.jpg)
 ![](/images/works/27.jpg)
 ![](/images/works/28.jpg)
 ###  Sample Illustration
