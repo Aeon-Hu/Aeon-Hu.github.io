@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CV"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
