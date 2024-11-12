@@ -12,7 +12,7 @@ title                    : "JIAYI HU"
 title_separator          : "-"
 name                     : &name "JIAYI HU"
 description              : &description "personal description"
-url                      : https://Aeon-Hu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Aeon-Hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Aeon-Hu/Aeon-Hu.github.io/"
 

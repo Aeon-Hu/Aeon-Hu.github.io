@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sample Design"
-permalink: /work/
+permalink: /works/
 author_profile: true
 redirect_from:
   - /work
