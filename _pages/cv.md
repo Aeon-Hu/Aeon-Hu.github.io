@@ -6,7 +6,7 @@ permalink: /cv/
 ---
 
 
-### Education
+## Education
 
 **ER Honors Bachelor of Science**                            <span style="text-align: right;"> Completion: 2021-2025 </span>
 
