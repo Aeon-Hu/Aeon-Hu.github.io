@@ -21,35 +21,36 @@ He serves as the Crown Prince of Li (黎), where the Li Dynasty is a country for
 ###  Design Process:
 
 
-![](/images/works/1.png)
+![](/images/works/111.png)
 
 Overall Outline: Determine the main style direction of this character
 
 
-![](/images/works/2.png)
+![](/images/works/112.png)
 
 Sketch after Confirmation: Based on the second one design of the overall outline
 
-![](/images/works/3.png)
+![](/images/works/113.png)
 
 Combination and Organize: Add more details and design the character outlook
 
-![](/images/works/4.png)
+![](/images/works/114.png)
 
 Final Draft: Finish the whole character design
 
 ###  Some other design examples:
 
-![](/images/works/5.png)
+![](/images/works/21.png)
 
-![](/images/works/6.png)
+![](/images/works/22.png)
 
-![](/images/works/7.png)
+![](/images/works/23.png)
 
-![](/images/works/8.png)
-![](/images/works/9.png)
-![](/images/works/10.png)
+![](/images/works/24.png)
+![](/images/works/25.png)
 
+![](/images/works/27.png)
+![](/images/works/28.png)
 ##  Sample Illustration:
 
 ![](/images/works/11.png)
