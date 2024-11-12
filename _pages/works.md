@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-**Design Case for one character**<br/>
+**Character Design Case**<br/>
 **Character**: FAN Yin (樊胤)<br/>
 **Introduction to the role:**<br/>
 FAN Yin (樊胤/梵胤) , known as LIN Fan (林凡) when he lost his memory during the “Mysteries of SiXiang Gates” (四象门奇案).<br/>
