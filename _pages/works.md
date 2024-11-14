@@ -63,6 +63,6 @@ Final Draft: Finish the whole character design
 
 ## Game Demo
 
-![](/images/works/31.png)
+![](/images/works/31.jpg)
 
-![](/images/works/32.png)
+![](/images/works/32.jpg)
