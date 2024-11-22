@@ -63,7 +63,7 @@ Final Draft: Finish the whole character design
 
 ## Scene Design
 
-![](/images/works/51.png)
+![](/images/works/51.jpg)
 
 ## Game Demo
 
