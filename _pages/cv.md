@@ -27,3 +27,9 @@ permalink: /cv/
        
 * **Allianz China Life Insurance Co., Ltd.**     <br/>   2023.05-2023.09  <br/> Strategy Business and Development Intern
       
+
+## Awards
+
+* 2019 CEMC Cayley Contest 
+
+* 2021 CEMC Euclid Contest
