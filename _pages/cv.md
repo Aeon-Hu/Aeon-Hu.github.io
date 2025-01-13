@@ -9,7 +9,7 @@ permalink: /cv/
 ## Education
 
 
-* **University of Toronto, Canada** <br/> Completion: 2021-2025                       
+* **University of Toronto, Canada** <br/> Completion:  2021-2025                       
   *   Honors Bachelor of Science with Majors in Mathematical Science, Mathematics & Statistics, Applied
   *  CGPA (As 2024 Fall): 3.55/4.00
 
@@ -19,7 +19,7 @@ permalink: /cv/
 * Technical: Microsoft, R, Python, MATLAB, LaTeX, Adobe Premiere/Photoshop, Clip Studio Paint
 * Language: Mandarin (Native), English (Fluent & Professional)
 
-## WORK EXPERIENCE
+## Work Experience
 
 
 * **Health Insurance Application Analyst (Actuarial/Data Analysis Focus)**     <br/>  2024.06 – 2024.09  <br/>  Health Insurance Application Analyst (Actuarial/Data Analysis Focus)
