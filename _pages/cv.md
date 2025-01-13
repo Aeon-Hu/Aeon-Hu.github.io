@@ -9,7 +9,7 @@ permalink: /cv/
 ## Education
 
 
-* **University of Toronto, Canada** <br/> Completion:2021-2025                       
+* **University of Toronto, Canada** <br/> Completion: 2021-2025                       
   *   Honors Bachelor of Science with Majors in Mathematical Science, Mathematics & Statistics, Applied
   *  CGPA (As 2024 Fall): 3.55/4.00
 
