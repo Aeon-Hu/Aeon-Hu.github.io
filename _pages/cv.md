@@ -12,7 +12,7 @@ permalink: /cv/
   *  Majors: Mathematical Science, Mathematics & Statistics, Applied
   *  CGPA (As 2024 Fall): 3.55/4.00
 
-* **University of Pennsylvania** <br/> Completion:  2025-2027.06                       
+* **University of Pennsylvania** <br/> Completion:  2025-2027                       
   *   Major: Systems Engineering
   *  Focus: Data Science, Control Systems and Optimization. Application areas in Statistics and Marketing
 
