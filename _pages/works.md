@@ -64,7 +64,7 @@ Final Draft: Finish the whole character design
 ![](/images/works/11.png)
 
 ![](/images/works/12.png)
-
+![](/images/works/new/6.jpg)
 ![](/images/works/13.png)
 
 
